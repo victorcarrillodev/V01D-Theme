@@ -27,8 +27,8 @@ Ideal for:
 
 ### Editor
 
-![Editor Screenshot](https://github.com/victorcarrillodev/V01D-Theme/blob/main/assets/image-01.png)
-![Editor Screenshot](https://github.com/victorcarrillodev/V01D-Theme/blob/main/assets/image-02.png)
+![Editor Screenshot](assets/image-02.png)
+![Editor Screenshot](assets/image-01.png)
 
 <!-- > ⚠️ Usa imágenes locales, NO URLs externas -->
 
