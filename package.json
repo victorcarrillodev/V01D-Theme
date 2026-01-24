@@ -2,10 +2,14 @@
   "name": "v01d-theme",
   "displayName": "V01D Theme",
   "description": "A minimal dark theme forged from digital silence.",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "victordev079",
   "icon": "assets/icon.png",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/victorcarrillodev/V01D-Theme"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
