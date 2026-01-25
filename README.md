@@ -1,40 +1,34 @@
-<p align="center">
-  <img src="assets/icon.png" width="120" />
-</p>
-
-<h1 align="center">V01D</h1>
-
-<p align="center">
-  A minimal dark theme forged from digital silence.
-</p>
+# V01D Theme: Simple & Colorful modern Dark VSCode Theme
 
 ---
 
-## 🜏 Overview
+![banner](assets/banner.png)
 
-**V01D** is a dark, minimal and high-contrast theme designed for long coding sessions.
-Focused on clarity, calm colors and visual silence.
+![Editor Screenshot](assets/image-01.png)
 
-Ideal for:
+Enhance your coding experience with v01d-theme, a dark theme with colorful and elegant syntax highlighting. This v01d theme is inspired by the visual comfort of a dark screen, with distinct and vibrant colors to highlight key elements and a vibrant color palette for effortless programming.
 
-- Night coding
-- Low eye strain
-- Minimalist workflows
+[![github-license](https://img.shields.io/github/license/victorcarrillodev/v01d-theme?style=flat-square&logo=github)](https://github.com/victorcarrillodev/v01d-theme)
+[![vsm-downloads](https://img.shields.io/visual-studio-marketplace/d/victordev079.v01d-theme?style=flat-square&label=downloads&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=victordev079.v01d-theme)
+[![vsm-stars](https://img.shields.io/visual-studio-marketplace/stars/victordev079.v01d-theme?style=flat-square&label=stars&logo=visual-studio-code)](https://marketplace.visualstudio.com/items?itemName=victordev079.v01d-theme)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/victordev079.v01d-theme)](https://marketplace.visualstudio.com/items?itemName=victordev079.v01d-theme)
 
----
+## Features
 
-## 🎨 Screenshots
+- 🌑 Dark and deep style
+- 🕶️ High contrast for better readability
+- 🖌️ Vibrant and distinctive color palette
+- 👁️ Perfect for night use
+- ✏️ Modern clean design for coding
 
-### Editor
+## Screenshots
 
 ![Editor Screenshot](assets/image-02.png)
 ![Editor Screenshot](assets/image-01.png)
 
 <!-- > ⚠️ Usa imágenes locales, NO URLs externas -->
 
----
-
-## ⚙️ Installation
+## Installation
 
 1. Open **VS Code**
 2. Go to **Extensions**
@@ -42,32 +36,17 @@ Ideal for:
 4. Click **Install**
 5. `Ctrl + K` → `Ctrl + T` → Select **V01D**
 
----
+## Customization
 
-## 🧩 Supported Languages
+V01d can be customized to your liking. Check out the VS Code theme customization guide for more information.
 
-- JavaScript / TypeScript
-- Vue / React
-- HTML / CSS
-- JSON / Markdown
-
----
-
-## 🌑 Color Philosophy
+## Color Philosophy
 
 - Background: deep dark
 - Accents: subtle neon
 - Syntax: calm, readable, balanced
 
----
-
-## 📦 Versioning
-
-This theme follows semantic versioning.
-
----
-
-## 🛡 License
+## License
 
 MIT © Victor Manuel Carrillo Rojas
 
