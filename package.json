@@ -19,9 +19,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "V01D Theme",
+        "label": "V01D Original",
         "uiTheme": "vs-dark",
         "path": "./themes/v01d-theme.json"
+      },
+      {
+        "label": "V01D Alternative",
+        "uiTheme": "vs-dark",
+        "path": "./themes/v01d-theme-alternative-color-theme.json"
       }
     ]
   }
