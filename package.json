@@ -26,7 +26,7 @@
       {
         "label": "V01D Alternative",
         "uiTheme": "vs-dark",
-        "path": "./themes/v01d-theme-alternative-color-theme.json"
+        "path": "./themes/v01d-theme-alternative.json"
       }
     ]
   }
